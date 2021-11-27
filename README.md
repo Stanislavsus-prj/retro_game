@@ -1,5 +1,9 @@
 # Retro Game
 
+[![Build status](https://ci.appveyor.com/api/projects/status/sy6lsgx1kpngp1rx?svg=true)](https://ci.appveyor.com/project/Stanislavsus-prj/retro-game)
+
+[gh-pages](https://stanislavsus-prj.github.io/retro_game/)
+
 ###### tags: `netology` `advanced js`
 
 ## Предыстория
