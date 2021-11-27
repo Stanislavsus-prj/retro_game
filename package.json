@@ -35,6 +35,9 @@
     "preshow:coverage": "npm run coverage",
     "show:coverage": "live-server coverage/lcov-report"
   },
+  "jest": {
+    "testEnvironment": "jsdom"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Stanislavsus-prj/retro_game.git"
